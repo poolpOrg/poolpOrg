@@ -4,7 +4,7 @@
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/gilles.chehade)
 
 - 🔭 part-time IT Architect @ Veepee
-- ⭐️ freelance architect/developer/consultant or opensource developer on my free time
+- ⭐️ freelance architect/developer/consultant or opensource developer on my free time: **I'm available for freelance projects**!
 - 📚 I occasionally teach or give private talks on various topics
 - 🚀 Personal blog at [poolp.org](https://poolp.org)
 
@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://masto.ai/@nunocoracao"></a>
-
-I'm <a rel="me" href="https://social.poolp.org/@gilles">@gilles@social.poolp.org</a> and <a href="https://twitter.com/poolpOrg">@poolpOrg</a>
+I'm <a href="https://X.com/poolpOrg">@poolpOrg</a>
