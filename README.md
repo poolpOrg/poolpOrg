@@ -3,8 +3,8 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/poolpOrg?style=social)](https://twitter.com/poolpOrg)
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/gilles.chehade)
 
-- 🔭 CTO @ Plakar
-- ⭐️ ~~freelance architect/developer/consultant or opensource developer on my free time: **I'm available for freelance projects**!~~ Only available for short consulting.
+- 🔭 CTO @ Plakar and opensource developer
+- ⭐️ Freelance architect/developer/consultant
 - 📚 I occasionally teach or give private talks on various topics
 - 🚀 Personal blog at [poolp.org](https://poolp.org)
 
